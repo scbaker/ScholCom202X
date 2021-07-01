@@ -35,9 +35,11 @@ In the real world, things are more complicated than that, and using they/them to
 
 If you're not familiar with they/them pronouns, or with the idea of pronouns and identity in general, Shige Sakurai maintains [an excellent set of resources at myprounouns.org](https://www.mypronouns.org/they-them) 
 
-## A Note about Licenses
+## A Note about Copyright and Licenses
 
 The text of this game, as presented in the Printables folder, is licensed under a Creative Commons Attribution 4.0 International License.
 https://creativecommons.org/licenses/by/4.0/ — Work creator: Stewart Baker
 
-The Ink code and outputted JS/CSS/HTML files in this repository are licensed by Inkle, and is released under an MIT license. Please see [Inkle's license in the Ink GitHub repository](https://github.com/inkle/ink/blob/master/LICENSE.txt) for more details.
+The copyright and other intellectual properties related to the text of the game resides with North Carolina State University.
+
+The intellectual property of all Ink code and JS/CSS/HTML files in this repository are held by Inkle and released under an MIT license. Please see [Inkle's license in the Ink GitHub repository](https://github.com/inkle/ink/blob/master/LICENSE.txt) for more details.
